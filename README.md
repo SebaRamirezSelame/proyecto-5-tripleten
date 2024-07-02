@@ -12,3 +12,5 @@ Permite a los usuarios visualizar la distribución del kilometraje de los coches
 - Visualización de un gráfico de dispersión que muestra la relación entre el kilometraje y el precio.
 
 Para usar la aplicación, haz clic en los botones para generar los gráficos correspondientes.
+
+URL "https://proyecto-5-tripleten-x70s.onrender.com"
